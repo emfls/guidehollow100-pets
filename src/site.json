@@ -9,5 +9,6 @@
   "url": "https://pets.guidehollow.com/",
   "accent": "#AF754F",
   "launchReady": true,
-  "adsReady": false
+  "adsReady": false,
+  "coupangEnabled": true
 }
