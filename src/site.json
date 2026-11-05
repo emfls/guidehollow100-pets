@@ -3,12 +3,13 @@
   "short": "반려동물",
   "section": "반려동물",
   "slug": "pets",
-  "hero": "반려동물 용품과 생활환경을 안전하게 관리하는 안내입니다.",
-  "description": "반려동물 사료와 급여도구를 안전하게 보관·세척하는 생활 안내",
-  "pageTitle": "반려동물 생활 정보·문제 해결 가이드 | GuideHollow",
+  "hero": "반려동물 돌봄 인계 메모",
+  "description": "직접 작성한 식사·생활 지침을 텍스트 파일로 정리합니다. 급여량을 제안하지 않습니다.",
+  "pageTitle": "반려동물 돌봄 인계 메모 | GuideHollow",
   "url": "https://pets.guidehollow.com/",
   "accent": "#AF754F",
   "launchReady": true,
   "adsReady": false,
-  "coupangEnabled": true
+  "coupangEnabled": true,
+  "utilityEnabled": true
 }
